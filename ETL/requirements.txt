@@ -1,0 +1,10 @@
+# Requirements for ETL
+
+List all Python packages required for the ETL pipeline below. Example:
+
+pandas
+sqlalchemy
+pyodbc
+configparser
+
+# Add any other dependencies as needed.
